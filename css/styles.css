@@ -1,0 +1,29 @@
+body {
+    background-color: #CFF5E7;
+    color: #59C1BD;
+    padding: 100px;
+    font-family: 'Merriweather', serif;
+}
+.top-container{
+    text-align: center;
+}
+.top-cloud{
+    position:relative;
+    left: 500px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+}
+
+h1{
+    font-size: 500%;
+    font-family: 'Sacramento', cursive;
+}
+.middle-container{
+    padding-top: 100px;
+    text-align: center;
+}
+.bottom-container{
+    text-align: center;
+}
